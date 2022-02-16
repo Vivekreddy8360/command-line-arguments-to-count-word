@@ -36,7 +36,7 @@ with open(sys.argv[1],'r') as f:
 print("Number of words in a file:",count)  
 ```
 ### OUTPUT:
-![git logo](h1.png)
+![git logo](k1.png)
 
 ![git logo](h2.png)
 ## RESULT:
